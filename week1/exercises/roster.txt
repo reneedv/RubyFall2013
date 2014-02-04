@@ -1,6 +1,6 @@
 #, name, email, github, twitter, chat
 0, Renee, renee@nird.us, reneedv, @nirdllc, renee
-1,
+1, Craig, craigad1@uw.edu, craigadams, , craiga
 2,
 3,
 4,
